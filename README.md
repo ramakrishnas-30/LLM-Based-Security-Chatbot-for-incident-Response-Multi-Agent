@@ -148,16 +148,6 @@ pytest -v
 
 </details>
 
----
-
-<details>
-<summary>👥 Contributors</summary>
-
-* **Harshith B** — Project Lead (BE CSE @ BMSCE)
-* *Aashirvaad Kumar S*
-* *Govind Jairam Rathod*
-
-</details>
 
 ---
 
